@@ -21,6 +21,15 @@
 ### Quick start guide
 Instructions to start this project:
 
- - Clone repository: git clone [repository]
- - Install NPM packages and dependencies: npm install
- - Run project on local server: npm start
+ - Clone repository: 
+   ```
+   git clone [repository]
+   ```
+ - Install NPM packages and dependencies:
+   ```
+   npm install
+   ```
+ - Run project on local server:
+   ```
+   npm start
+   ```
