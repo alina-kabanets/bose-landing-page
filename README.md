@@ -1,4 +1,4 @@
-# Bose - a HTML and CSS based landing page, fit for a company/service with a one page view.
+# Bose - an HTML and CSS based landing page, fit for a company/service with a one page view.
 
 ## [Check the live demo here](https://alina-kabanets.github.io/bose-landing-page/)
 
@@ -34,7 +34,7 @@ Instructions to start this project:
    ```
 
  - Run project on local server:
- 
+
    ```
    npm start
    ```
