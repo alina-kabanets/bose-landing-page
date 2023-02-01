@@ -17,5 +17,7 @@
 
 ![preview img](../bose-landing-page/src/images/photos/preview.png)
 ![preview img](../bose-landing-page/src/images/photos/preview-2.png)
+![preview img]/src/images/photos/preview.png)
 <p><img align="center" src="bose-landing-page/src/images/photos/preview.png" alt="alina-kabanets" /></p>
+![preview img](/src/images/photos/preview.png)
 
