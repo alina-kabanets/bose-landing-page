@@ -5,6 +5,9 @@
 ![preview img](/src/images/photos/preview.png)
 ![preview img](src/images/photos/preview2.png)
 
+![preview img](/src/images/photos/preview.png)
+![preview img](src/images/photos/preview2.png)
+
 ### Features:
 
 - Responsive Landing Page Using HTML, CSS & JavaScript, Scss and BEM methodology.
