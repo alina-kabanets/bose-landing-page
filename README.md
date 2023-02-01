@@ -2,6 +2,9 @@
 
 ## [Check the live demo here](https://alina-kabanets.github.io/bose-landing-page/)
 
+![preview img](/src/images/photos/preview.png)
+![preview img](src/images/photos/preview2.png)
+
 ### Features:
 
 - Responsive Landing Page Using HTML, CSS & JavaScript, Scss and BEM methodology.
@@ -14,8 +17,4 @@
 - Location-related addresses / links open google maps.
 - Section buttons designed with hover transition.
 - Placeholders in the forms suggest what to enter; require validation of the form fields (required, email / tel etc.), then it is clear in what format to enter the data.
-
-![preview img](/src/images/photos/preview.png)
-![preview img](src/images/photos/preview-2.png)
-
 
