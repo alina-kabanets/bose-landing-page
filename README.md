@@ -16,6 +16,6 @@
 - Placeholders in the forms suggest what to enter; require validation of the form fields (required, email / tel etc.), then it is clear in what format to enter the data.
 
 ![preview img](../bose-landing-page/src/images/photos/preview.png)
-![preview img](../bose-landing-page/src/images/photos/preview-2.png)
+![preview img](bose-landing-page/src/images/photos/preview-2.png)
 <p><img align="center" src="bose-landing-page/src/images/photos/preview.png" alt="alina-kabanets" /></p>
 
