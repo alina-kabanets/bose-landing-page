@@ -17,3 +17,14 @@
 - Location-related addresses / links open google maps.
 - Section buttons designed with hover transition.
 - Placeholders in the forms suggest what to enter; require validation of the form fields (required, email / tel etc.), then it is clear in what format to enter the data.
+
+### Quick start guide
+Instructions to start this project:
+
+Installation
+Clone repository:
+git clone [repository]
+Install NPM packages and dependencies:
+npm install
+Run project on local server:
+npm start
