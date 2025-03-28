@@ -2,7 +2,7 @@
 
 ## **BOSE landing page**
 
-_ BOSE is a responsive landing page for a company/service using HTML and CSS, based on a Figma design. The landing page follows a Mobile First approach, ensuring optimal user experience across devices, including mobile, tablet, and desktop. The project features a modern design with smooth scrolling, interactive elements, and a fixed header for easy navigation._
+_BOSE is a responsive landing page for a company/service using HTML and CSS, based on a Figma design. The landing page follows a Mobile First approach, ensuring optimal user experience across devices, including mobile, tablet, and desktop. The project features a modern design with smooth scrolling, interactive elements, and a fixed header for easy navigation._
 
 ## **Demo**
 
