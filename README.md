@@ -68,7 +68,7 @@ Follow these steps to set up the project locally
 ### 1\. **Clone the repo**
 
 ```bash
-git clone https://alina-kabanets.github.io/Potr_Pots/
+git clone https://github.com/alina-kabanets/bose-landing-page
 cd project-name
 ```
 
