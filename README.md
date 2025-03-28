@@ -10,7 +10,7 @@ _BOSE is a responsive landing page for a company/service using HTML and CSS, bas
 
 
 
-## **Design Reference **
+## **Design Reference**
 
 🖼 [**Figma Mockup**](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1&t=tfAdrWUpxrkXjou7-0)
 
